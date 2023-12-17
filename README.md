@@ -18,14 +18,6 @@ If y represents the dependent variable and x the independent variable, this rela
 # Procedure :
 ![image](https://github.com/dharshini-29/Correlation_Regression/assets/147474632/e59597ac-5401-4095-a7cf-7f3a2bdc7f65)
 
-
-#Experiment :
-
-
-
-![image](https://github.com/dharshini-29/Correlation_Regression/assets/147474632/7bad90fd-f4d2-44d8-ad46-1c8ae231d7ce)
-
-
 # Program :
 Developed By : Dharshini K
 Ref No : 23010696
